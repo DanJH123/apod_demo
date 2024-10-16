@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="error_request_timeout">Request timed out. Please try again.</string>
+    <string name="error_unauthorized">You are not authorized to view this content.</string>
+    <string name="error_conflict">A conflict occurred. Please try again.</string>
+    <string name="error_too_many_requests">Too many requests. Please wait and try again.</string>
+    <string name="error_no_internet">No internet connection. Check your settings.</string>
+    <string name="error_payload_too_large">The requested data is too large.</string>
+    <string name="error_server_error">Server error. Please try again later.</string>
+    <string name="error_serialization">Data serialization error.</string>
+    <string name="error_date_format">An invalid date format was used.</string>
+    <string name="error_unknown">An unknown error occurred.</string>
+    <string name="apod_is_video">APOD is a video. Support for this is coming soon!</string>
+    <string name="retry_from_error">Retry</string>
+</resources>
